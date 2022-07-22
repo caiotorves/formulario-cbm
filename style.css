@@ -1,0 +1,106 @@
+body {
+	background: white
+}
+
+#brs {
+    margin-left: 1150px;
+}
+
+#armas {
+	margin-left: 50px;
+	margin-top: -280px;
+}
+
+
+h1 {
+	text-align: center;
+	display: block;
+	font-size: 2em;
+	margin-top: -6em;
+}
+
+h2 {
+	text-align: center;
+	font-size: 27px;
+}
+
+h3 {
+	text-align: center;
+	font-size: 22px;
+}
+
+h4 {
+	text-align: center;
+	font-size: 22px;
+}
+
+
+main {
+	width: 940px;
+	margin: 0 auto;
+}
+
+form {
+	margin: 130px 0;
+}
+
+form label{
+	display: block;
+	font-size: 20px;
+	margin: 0 0 10px;
+}
+
+form p,{
+	display: block;
+	font-size: 20px;
+	margin: 0 0 10px;
+}
+
+.input-padrao{
+	display: block;
+	margin: 0 0 10px;
+	padding: 8px 15px;
+	width: 50%;
+}
+
+.input-second{
+	display: block;
+	margin: 0 0 10px;
+	padding: 8px 15px;
+	width: 50%;
+}
+
+.enviar{
+	width: 40%;
+	padding: 15px 0;
+	background: red;
+	color: white;
+	margin-top: 35px;
+	font-weight: bold;
+	font-size: 15px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	}
+
+	.enviar:hover {
+		background: darkred;
+	}
+
+.input-number{
+	display: block;
+	margin: 0 0 10px;
+	margin-top: -24px;
+	margin-left: 1000px;
+	padding: 3px 3px;
+	width: 3%;
+}
+
+.input-days{
+	display: block;
+	margin: 0 0 10px;
+	margin-left: 180px;
+	margin-top: -20px;
+	padding: 3px 6px;
+	width: 7%;
+}
